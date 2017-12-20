@@ -1,0 +1,106 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{71, 67}, {225, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "street_address_label",
+          "frame" : "{{214, 255}, {150, 32}}",
+          "uuid" : "0C506B7C-10E0-4F6A-9FCE-47205B0AC647",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Enter your address",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{71, 107}, {225, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "postal_code_label",
+          "frame" : "{{214, 255}, {150, 32}}",
+          "uuid" : "55A8DF68-86BB-4C49-B5FF-F08155A55B51",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Enter your postal code",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{71, 157}, {225, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "city_name_label",
+          "frame" : "{{214, 255}, {150, 32}}",
+          "uuid" : "575E9AF4-CE17-445B-A687-1DC1CD49055C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Enter your city name",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{71, 210}, {225, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "province_label",
+          "frame" : "{{214, 255}, {150, 32}}",
+          "uuid" : "334025C3-80DF-474D-A35C-DA35FC0FEF73",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Enter your province",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{71, 259}, {225, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "number_label",
+          "frame" : "{{214, 255}, {150, 32}}",
+          "uuid" : "C12A186E-78DD-4642-8289-EAD8B70FA3E3",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Enter your number",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {578, 542}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
